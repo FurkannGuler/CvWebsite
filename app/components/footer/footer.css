@@ -1,0 +1,48 @@
+.list{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 5%;
+    
+    
+}
+.list-item{
+    margin-top: 4%;
+    display: flex;
+    list-style: none;
+    font-size: larger;
+    color: honeydew;
+    padding: 0;
+    
+}
+.list-item:hover{
+    color: var(--normal);
+    transition: all ease .4s;
+}
+.list-title{
+    color: white;
+    font-size: 25px;
+    cursor: default;
+    
+}
+.iletisim{
+    color: azure;
+    
+    
+}
+.iletisim-item{
+    width: 30px;
+    height: 30px;
+}
+.iletisim-item:hover{
+    color: var(--normal);
+    transition: all ease .4s;
+}
+.language{
+    font-size: larger;
+    color: azure;
+}
+.language:hover{
+    color: var(--normal);
+    
+    transition: all ease .4s;
+}

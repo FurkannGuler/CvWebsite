@@ -1,0 +1,11 @@
+
+.menu-item{
+     color: var(--textColor);
+     font-weight: 500;
+     font-size: larger;
+
+}
+.menu-item:hover{
+    color:var(--normal);
+    transition: color .2s ease;
+}

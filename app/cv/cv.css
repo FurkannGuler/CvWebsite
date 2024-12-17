@@ -1,0 +1,27 @@
+#form-input{
+    border-radius: 5px;
+    
+
+    
+}
+#grid-row{
+    padding: 14px 10px;
+}
+
+#grid-row label{
+    font-size: large;
+    color: var(--textColor);
+}
+
+.Accordion-item{
+   border: 0ch;
+   margin-bottom: 1%;
+   
+    
+}
+.Accordion-button{
+    border-width: 2px;
+    border-radius: 8px;
+    height: 70px;
+    
+}

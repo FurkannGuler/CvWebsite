@@ -1,0 +1,44 @@
+.title{
+    font-size: 70px;
+    font-weight: 600;
+    margin-top: 3%;
+    cursor: default;
+}
+.description{
+    font-size: 25px;
+    color: dimgray;
+    margin-top: 2%;
+    cursor: default;
+}
+.span{
+    color: var(--textColor);
+    font-size: x-large;
+}
+.button{
+    background-color: var(--normal);
+    font-size: x-large;
+    color: white;
+   
+}
+
+
+
+@media (max-width: 750px) {
+  .title {
+     font-size: 60px;
+  }
+  .description{
+    font-size: 18px;
+  }
+}
+@media (max-width: 500px) {
+  .title {
+     font-size: 45px;
+  }
+  .description{
+    font-size: 18px;
+  }
+  .span{
+    font-size: larger;
+  }
+}

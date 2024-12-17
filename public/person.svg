@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="katman_1" data-name="katman 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 97.92 18.77">
+  <g>
+    <path d="m10.53,4.96c-.46-.49-1.09-.76-1.8-.76s-1.35.27-1.8.76c-.46.49-.68,1.17-.63,1.89.1,1.43,1.19,2.6,2.43,2.6s2.32-1.17,2.43-2.6c.05-.72-.17-1.39-.63-1.89Zm2.33,9.74H4.61c-.22,0-.43-.09-.57-.26-.15-.18-.21-.43-.17-.68.2-1.1.82-2.02,1.79-2.67.86-.57,1.95-.89,3.07-.89s2.21.32,3.08.89c.97.65,1.59,1.57,1.79,2.67.05.25-.02.5-.17.68-.14.17-.35.26-.57.26Z" stroke-width="0"/>
+    <rect x=".38" y="1.39" width="17" height="17" rx="8.5" ry="8.5" transform="translate(17.75 19.78) rotate(180)" fill="none" stroke="#1d1d1b" stroke-miterlimit="10" stroke-width=".75"/>
+    <line x1="17.37" y1="9.45" x2="28.91" y2="9.45" fill="none" stroke="#1d1d1b" stroke-miterlimit="10" stroke-width=".75"/>
+  </g>
+  
+</svg>
